@@ -1,3 +1,3 @@
 Elias, from Austria
 I'm currently studying Physics in Vienna
-Not a very profound Coder, but here to learn
+I am getting into Software development using AI as a resource
